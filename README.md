@@ -1,6 +1,6 @@
 ---
 
-# 🌐 SmartGov – Scheme Finder (MERN Web Application)
+## 🌐 SmartGov – Scheme Finder (MERN Web Application)
 
 **SmartGov – Scheme Finder** is a **role-based MERN stack web application** designed to simplify access to government welfare schemes.
 The platform ensures **secure scheme publishing, verification, and discovery** through a structured **Maker–Checker–User–Admin workflow**.
